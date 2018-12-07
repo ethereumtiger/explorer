@@ -1,4 +1,4 @@
-# ESN Explorer
+# ETIG Explorer
 
 <b>Live Version: [EthereumTiger](https://explorer-etig.europool.me/)</b>
 
