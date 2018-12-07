@@ -34,7 +34,7 @@ Basic settings:
 ```json
 {
     "nodeAddr":     "localhost",
-    "gethPort":     8545,
+    "gethPort":     8777,
     "startBlock":   0,
     "endBlock":     "latest",
     "quiet":        true,
@@ -42,7 +42,7 @@ Basic settings:
     "patch":        true,
     "patchBlocks":  100,
     "settings": {
-        "symbol": "ESN",
+        "symbol": "ETIG",
         "name": "EthereumTiger Network",
         "title": "EthereumTiger Network Block Explorer",
         "author": "Elaine"
